@@ -1,2 +1,3 @@
 # guess-the-number
-Guess the number game Project
+
+Guess my number game Project
